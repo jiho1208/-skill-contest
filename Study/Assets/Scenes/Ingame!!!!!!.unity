@@ -2150,6 +2150,7 @@ MonoBehaviour:
   - {fileID: 223316534}
   - {fileID: 807500789}
   - {fileID: 1893040936}
+  MaxDelay: 5
 --- !u!1 &766546115071423832
 GameObject:
   m_ObjectHideFlags: 0
