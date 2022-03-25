@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Control : MonoBehaviour
 {
-    // ³ª´Â ºýºýÀÌ´Ù~~~~
     [SerializeField]
     private List<Transform> Points;
     [SerializeField]
